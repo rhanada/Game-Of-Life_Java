@@ -1,8 +1,6 @@
-package Methoden;
-
 import java.util.Scanner;
 
-public class GameOfLifeMultiDimensional {
+public class GameOfLife {
     public static void main(String[] args) {
         int row=10;
         int col=10;
